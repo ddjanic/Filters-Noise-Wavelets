@@ -1,0 +1,152 @@
+c:\users\vbul\documents\visual studio 2013\Projects\Diplom\Diplom\bin\Debug\Diplom.exe.config
+c:\users\vbul\documents\visual studio 2013\Projects\Diplom\Diplom\bin\Debug\Diplom.exe
+c:\users\vbul\documents\visual studio 2013\Projects\Diplom\Diplom\bin\Debug\Diplom.pdb
+c:\users\vbul\documents\visual studio 2013\Projects\Diplom\Diplom\obj\Debug\Diplom.csprojResolveAssemblyReference.cache
+c:\users\vbul\documents\visual studio 2013\Projects\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+c:\users\vbul\documents\visual studio 2013\Projects\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.Cache
+c:\users\vbul\documents\visual studio 2013\Projects\Diplom\Diplom\obj\Debug\Diplom.exe
+c:\users\vbul\documents\visual studio 2013\Projects\Diplom\Diplom\obj\Debug\Diplom.pdb
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\msvcp100.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\msvcr100.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\OpenCvSharpExtern.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\opencv_calib3d248.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\opencv_contrib248.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\opencv_core248.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\opencv_features2d248.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\opencv_ffmpeg248.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\opencv_flann248.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\opencv_gpu248.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\opencv_highgui248.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\opencv_imgproc248.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\opencv_legacy248.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\opencv_ml248.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\opencv_nonfree248.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\opencv_objdetect248.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\opencv_ocl248.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\opencv_photo248.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\opencv_stitching248.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\opencv_superres248.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\opencv_video248.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\opencv_videostab248.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\OpenCvSharp.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\obj\Debug\Diplom.MainForm.resources
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\obj\Debug\Diplom.ImageShowForm.resources
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\AForge.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\AForge.Imaging.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\AForge.Math.dll
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\AForge.xml
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\AForge.Imaging.xml
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\bin\Debug\AForge.Math.xml
+C:\Users\vbul\Documents\Visual Studio 2013\Projects\Diplom\Diplom\obj\Debug\Diplom.AnalyzeImage.resources
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\Diplom.exe.config
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\obj\Debug\Diplom.exe
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\msvcp100.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\msvcr100.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\OpenCvSharpExtern.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\opencv_calib3d248.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\opencv_contrib248.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\opencv_core248.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\opencv_features2d248.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\opencv_ffmpeg248.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\opencv_flann248.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\opencv_gpu248.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\opencv_highgui248.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\opencv_imgproc248.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\opencv_legacy248.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\opencv_ml248.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\opencv_nonfree248.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\opencv_objdetect248.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\opencv_ocl248.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\opencv_photo248.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\opencv_stitching248.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\opencv_superres248.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\opencv_video248.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\opencv_videostab248.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\Diplom.exe
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\Diplom.pdb
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\AForge.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\AForge.Imaging.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\AForge.Math.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\OpenCvSharp.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\AForge.xml
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\AForge.Imaging.xml
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\bin\Debug\AForge.Math.xml
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\obj\Debug\Diplom.csprojResolveAssemblyReference.cache
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\obj\Debug\Diplom.AnalyzeImage.resources
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\obj\Debug\Diplom.ImageShowForm.resources
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\obj\Debug\Diplom.MainForm.resources
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.Cache
+C:\Users\vbul\Documents\Visual Studio\Diplom\Diplom\obj\Debug\Diplom.pdb
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\msvcp100.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\msvcr100.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\OpenCvSharpExtern.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\opencv_calib3d248.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\opencv_contrib248.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\opencv_core248.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\opencv_features2d248.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\opencv_ffmpeg248.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\opencv_flann248.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\opencv_gpu248.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\opencv_highgui248.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\opencv_imgproc248.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\opencv_legacy248.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\opencv_ml248.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\opencv_nonfree248.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\opencv_objdetect248.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\opencv_ocl248.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\opencv_photo248.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\opencv_stitching248.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\opencv_superres248.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\opencv_video248.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\opencv_videostab248.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\Diplom.exe.config
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\Diplom.exe
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\Diplom.pdb
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\AForge.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\AForge.Imaging.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\AForge.Math.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\OpenCvSharp.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\AForge.xml
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\AForge.Imaging.xml
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\AForge.Math.xml
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\OpenCvSharp.dll.config
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\OpenCvSharp.Blob.dll.config
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\OpenCvSharp.MachineLearning.dll.config
+C:\Users\ddjanic\Desktop\Diplom\Diplom\obj\Debug\Diplom.csprojAssemblyReference.cache
+C:\Users\ddjanic\Desktop\Diplom\Diplom\obj\Debug\Diplom.AnalyzeImage.resources
+C:\Users\ddjanic\Desktop\Diplom\Diplom\obj\Debug\Diplom.ImageShowForm.resources
+C:\Users\ddjanic\Desktop\Diplom\Diplom\obj\Debug\Diplom.MainForm.resources
+C:\Users\ddjanic\Desktop\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+C:\Users\ddjanic\Desktop\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.cache
+C:\Users\ddjanic\Desktop\Diplom\Diplom\obj\Debug\Diplom.csproj.CoreCompileInputs.cache
+C:\Users\ddjanic\Desktop\Diplom\Diplom\obj\Debug\Diplom.csproj.CopyComplete
+C:\Users\ddjanic\Desktop\Diplom\Diplom\obj\Debug\Diplom.exe
+C:\Users\ddjanic\Desktop\Diplom\Diplom\obj\Debug\Diplom.pdb
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\Accord.dll.config
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\Accord.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\Accord.Imaging.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\Accord.Math.Core.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\Accord.Math.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\Accord.Statistics.dll
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\Accord.xml
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\Accord.Imaging.xml
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\Accord.Math.xml
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\Accord.Math.Core.xml
+C:\Users\ddjanic\Desktop\Diplom\Diplom\bin\Debug\Accord.Statistics.xml
